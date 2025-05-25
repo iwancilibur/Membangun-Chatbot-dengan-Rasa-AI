@@ -39,6 +39,8 @@
 Rasa cocok bagi perusahaan atau pengembang yang ingin membuat chatbot cerdas dengan kontrol penuh atas data dan logika percakapan.  
 
 # **Mari kita buat chatbot sederhana bersama!** 🚀
+![Image](https://github.com/user-attachments/assets/3721df27-6c17-40eb-ac1c-29a0aab0b1fb)
+
  Saya akan memandu Anda langkah demi langkah dengan contoh praktis dalam Bahasa Indonesia.  
 ---
 
