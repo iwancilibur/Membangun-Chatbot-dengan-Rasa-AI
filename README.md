@@ -1,4 +1,7 @@
 # Membangun-Chatbot-dengan-Rasa-AI
+---
+![Image](https://github.com/user-attachments/assets/a6489aed-9dd6-42a4-ac00-7362f8110d52)
+
 **Rasa AI** adalah sebuah platform *open-source* untuk membangun asisten virtual dan chatbot canggih yang dapat memahami dan merespons percakapan manusia secara alami. Rasa memungkinkan pengembang untuk membuat sistem *conversational AI* yang dapat dijalankan secara *on-premise* (di server sendiri) tanpa bergantung pada layanan cloud eksternal.
 
 ### **Komponen Utama Rasa AI:**
