@@ -189,7 +189,18 @@ Bot: Terima kasih! Tim kami akan memverifikasi pembayaran Anda dalam 1x24 jam.
 
 ---
 
-**Selanjutnya akan saya buatkan ke tahap berikutnya?**:  
+**Selanjutnya akan saya Tuliskan di Repository tahap berikutnya?**:  
 - Menambahkan fitur [form](https://rasa.com/docs/rasa/forms) untuk isi data?  
 - Integrasi dengan WhatsApp?  
+
+---
+
+## ❤️ Dukungan & Donasi
+
+* 👨‍💻 Author: **Iwan Cilibur**
+* ☕ Traktir saya: [https://dunyotech.myr.id/payme](https://dunyotech.myr.id/payme)
+
+---
+
+> Jangan lupa ⭐ project ini jika bermanfaat dan bantu share ke yang sedang galau\~ 🌹
 
