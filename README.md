@@ -184,8 +184,7 @@ Bot: Terima kasih! Tim kami akan memverifikasi pembayaran Anda dalam 1x24 jam.
 
 ---
 
-**Mau lanjut ke tahap berikutnya?** Misalnya:  
+**Selanjutnya akan saya buatkan ke tahap berikutnya?**:  
 - Menambahkan fitur [form](https://rasa.com/docs/rasa/forms) untuk isi data?  
 - Integrasi dengan WhatsApp?  
 
-Beri tahu saya, saya siap membantu! 😊
